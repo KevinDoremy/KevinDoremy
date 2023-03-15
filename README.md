@@ -1,5 +1,13 @@
-### Hi there 👋
+# Hello, I'm Kevin Doremy 👋
+### About Me
+I am a software engineer with a Bachelor's degree in Software Engineering. I am passionate about mobile development, particularly iOS development. I currently work as an iOS developer at BDC. I enjoy learning new technologies and staying up-to-date with the latest developments in the industry.
 
+### Skills
+* iOS development using Swift and Objective-C
+* Xcode
+* Git and GitHub
+* Agile methodology
+* User Interface design
 <!--
 **KevinDoremy/KevinDoremy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
