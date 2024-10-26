@@ -1,4 +1,4 @@
-# Hello, I'm Kevin Doremy 👋
+# I'm Kevin Doremy 👋
 
 ![Swift](https://img.shields.io/badge/swift-F54A2A?style=for-the-badge&logo=swift&logoColor=white)
 ![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white)
