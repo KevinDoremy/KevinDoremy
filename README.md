@@ -1,39 +1,29 @@
-# I'm Kevin Doremy 👋
+### Senior Mobile Engineer @ La Presse · ing. OIQ (Software / AI) · Greater Montréal
 
-![Swift](https://img.shields.io/badge/swift-F54A2A?style=for-the-badge&logo=swift&logoColor=white)
-![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white)
+5+ years iOS and Android. Specialist in **Kotlin Multiplatform** and **mobile DevEx**.
+Maintainer of 3 open-source dev tools via [@elumine-dev](https://github.com/elumine-dev).
 
-<!--
-![cs](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
-![dotnet](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
-![js](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
-![node](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
--->
+---
 
-### About Me 🚀
-I am a software engineer with a Bachelor's degree in Software Engineering. I am passionate about mobile development, particularly iOS development. I currently work as an iOS developer at BDC. I enjoy learning new technologies and staying up-to-date with the latest developments in the industry.
+#### Currently
 
-### Skills 💻
-* iOS development using Swift📱
-* Xcode 🛠️
-* Git and GitHub 📚
-* Agile methodology 🚀
-* User Interface design 🎨
-  
-<!--
-![My github stats](https://github-readme-stats.vercel.app/api?username=KevinDoremy&hide=stars&count_private=true&show_icons=true&theme=tokyonight&show_icons=true)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KevinDoremy&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+- Mobile engineering at **La Presse**. Android apps with 1M+ downloads, La Presse+ tablet edition (4M monthly readers, Apple Editor's Choice).
+- Maintaining [SearchDeadCode](https://github.com/KevinDoremy/SearchDeadCode), a Rust CLI to detect dead code in Android projects (on Homebrew, MIT).
+- Co-author of [kotlin-jump](https://github.com/elumine-dev/kotlin-jump), a VS Code Kotlin / Java navigation extension (4 658 installs, ★ 5.0).
+- Building [detekt-lsp](https://github.com/elumine-dev/detekt-lsp) for live Detekt diagnostics in any LSP-compatible editor.
 
-**KevinDoremy/KevinDoremy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+#### Background
 
-Here are some ideas to get you started:
+Previously 4 years at **BDC** (Canada's federal development bank, 2022-2025) where I led the Room → SQLDelight migration unblocking Kotlin Multiplatform adoption in a regulated financial environment. Software Engineering BSc from ÉTS (GPA 4.0), MBA starting September 2026.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+#### Stack
+
+**Mobile** Kotlin · Swift · Jetpack Compose · SwiftUI · Kotlin Multiplatform
+**Tooling** Rust · Tree-sitter · TypeScript · Mobile CI/CD · KSP · Detekt
+**Architecture** Clean Architecture · MVVM · Offline-first · A/B testing
+
+#### Reach me
+
+🌐 [kevindoremy.com](https://kevindoremy.com) · 💼 [LinkedIn](https://linkedin.com/in/kevindoremy) · ✉️ kevin.doremy.l@gmail.com
+
+🇨🇦 Bilingual French / English · OIQ-licensed Engineer (#6045500) · Open to remote roles in US and Canada (TN visa eligible)
