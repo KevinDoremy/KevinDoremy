@@ -9,12 +9,12 @@ Maintainer of 3 open-source dev tools via [@elumine-dev](https://github.com/elum
 
 - Mobile engineering at **La Presse**. Android apps with 1M+ downloads, La Presse+ tablet edition (4M monthly readers, Apple Editor's Choice).
 - Maintaining [SearchDeadCode](https://github.com/KevinDoremy/SearchDeadCode), a Rust CLI to detect dead code in Android projects (on Homebrew, MIT).
-- Co-author of [kotlin-jump](https://github.com/elumine-dev/kotlin-jump), a VS Code Kotlin / Java navigation extension (6 237 installs, ★ 5.0).
-- Building [detekt-lsp](https://github.com/elumine-dev/detekt-lsp) for live Detekt diagnostics in any LSP-compatible editor.
+- Co-author of [Kotlin Jump](https://github.com/elumine-dev/kotlin-jump), a VS Code Kotlin / Java navigation extension (6 237 installs, ★ 5.0).
+- Building [Detekt LSP](https://github.com/elumine-dev/detekt-lsp) for live Detekt diagnostics in any LSP-compatible editor.
 
 #### Background
 
-Previously 4 years at **BDC** (Canada's federal development bank, 2022-2025) where I led the Room → SQLDelight migration unblocking Kotlin Multiplatform adoption in a regulated financial environment. Software Engineering BSc from ÉTS (GPA 4.0), MBA starting September 2026.
+Previously 4 years at **BDC** (Canada's federal development bank, 2022-2025) where I led the Room → SQLDelight migration unblocking Kotlin Multiplatform adoption in a regulated financial environment. Software Engineering BSc from ÉTS (GPA 4.0), MBA at HEC Montréal (admitted, starts January 2027).
 
 #### Stack
 
