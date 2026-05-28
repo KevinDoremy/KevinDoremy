@@ -14,7 +14,7 @@ Maintainer of 3 open-source dev tools via [@elumine-dev](https://github.com/elum
 
 #### Background
 
-Previously 4 years at **BDC** (Canada's federal development bank, 2022-2025) where I led the Room → SQLDelight migration unblocking Kotlin Multiplatform adoption in a regulated financial environment. Software Engineering BSc from ÉTS (GPA 4.0), MBA at HEC Montréal (admitted, starts January 2027).
+Previously 4 years at **BDC** (Canada's federal development bank, 2021-2025) where I led the Room → SQLDelight migration unblocking Kotlin Multiplatform adoption in a regulated financial environment. Software Engineering BSc from ÉTS (GPA 4.0), MBA at HEC Montréal (admitted, starts January 2027).
 
 #### Stack
 
